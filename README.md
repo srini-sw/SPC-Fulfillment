@@ -1,6 +1,6 @@
 # Single Page Checkout - Fulfillment
+Single page checkout micro-frontend POC Fulfillment repo
 
-This is container react app to host Payment and Fulfillment micro-frontends
 
 
 
